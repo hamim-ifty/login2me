@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Log2in</string>
+    <string name="login_title">Login</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="submit_button">Submit</string>
+    <string name="email_icon_description">Email Icon</string>
+    <string name="password_icon_description">Password Icon</string>
+</resources>
